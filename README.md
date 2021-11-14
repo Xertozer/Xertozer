@@ -12,4 +12,5 @@
 - [SpreenBot](https://discord.gg/spreen) - Privado
 - [AQUINO-Bot](https://discord.gg/aquino) - Privado
 - [La Pecky](https://discord.gg/gqxcVyZ2Jk) - Privado
-- [Tanake](https://discord.gg/HvZ6Qkb2t9) - Público
+- [MagmaBot](https://discord.gg/magmaboi) - Privado
+- [Beenter](https://discord.gg/RzrxCuFykW)
