@@ -14,3 +14,4 @@
 - [La Pecky](https://discord.gg/gqxcVyZ2Jk) - Privado
 - [MagmaBot](https://discord.gg/magmaboi) - Privado
 - [Beenter](https://discord.gg/RzrxCuFykW) - Público
+- [SuwieBot](https://discord.gg/suwie) - Privada
