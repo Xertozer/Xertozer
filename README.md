@@ -5,7 +5,6 @@
 > [![Node.Js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()<br/>
 > [![TypeScript](https://img.shields.io/badge/TypeScript-3b85d1?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()<br/>
 > [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()<br/>
-> [![Python](https://img.shields.io/badge/Python-ffef14?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 ## Bots en Discord
 > Bots que programo actualmente, no muestro bots borrados, abandonados o vendidos.
