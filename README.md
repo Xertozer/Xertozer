@@ -11,7 +11,6 @@
 
 - [SpreenBot](https://discord.gg/spreen) - Privado
 - [AQUINO-Bot](https://discord.gg/aquino) - Privado
-- [La Pecky](https://discord.gg/gqxcVyZ2Jk) - Privado
 - [MagmaBot](https://discord.gg/magmaboi) - Privado
 - [Beenter](https://discord.gg/RzrxCuFykW) - Público
-- [SuwieBot](https://discord.gg/suwie) - Privada
+- [SuwieBot](https://discord.gg/suwie) - Privado
